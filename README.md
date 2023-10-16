@@ -15,7 +15,8 @@ Assignment: -
 
 
  2. Our client has around 10k linkedin people profiles, he wants to know the estimated income range of these profiles. Suggest ways on how to do this?
-    	We can analyze Job Titles and Industries - Job titles correlate with specific salary ranges. We can use online LinkedIn profiles / online resources to estimate average income.
+    
+	We can analyze Job Titles and Industries - Job titles correlate with specific salary ranges. We can use online LinkedIn profiles / online resources to estimate average income.
 
 	Location-Based Estimates - Salaries vary based on regions.
 
@@ -33,7 +34,7 @@ Assignment: -
 
  4. How to identify list of companies whose tech stack is built on Python. Give names of 5 companies if possible, by your suggested approach
     
-    	The first thing I will do is go for GitHub, Bitbucket, and Gitlab, many companies post their open-source projects on these platforms, so I would look for Python files.
+ 	The first thing I will do is go for GitHub, Bitbucket, and Gitlab, many companies post their open-source projects on these platforms, so I would look for Python files.
 
 	Technology Blogs and Articles - companies share their tech stack on blogs and articles.
 
@@ -46,7 +47,7 @@ Assignment: -
 
 
 5. Need to find an API, through which we can send linkedin messages to other linkedin users.
-   	Sending a direct message to a person using the LinkedIn API requires obtaining the appropriate API permissions and making an API request to the LinkedIn API endpoint. The LinkedIn API provides the /v2/messages endpoint for sending messages.
+	Sending a direct message to a person using the LinkedIn API requires obtaining the appropriate API permissions and making an API request to the LinkedIn API endpoint. The LinkedIn API provides the /v2/messages endpoint for sending messages.
 
 	Obtain API permissions: To use the LinkedIn API, we need to obtain the appropriate API permissions. This can be done by creating a LinkedIn Developer Account and registering the application.
 
